@@ -1,0 +1,9 @@
+name: AntiCheat
+version: '${project.version}'
+main: de.shadowpvp.anticheat.AntiCheat
+api-version: 1.19
+authors: [ LukasDev ]
+
+commands:
+  commandspy:
+    aliases: [cspy]
